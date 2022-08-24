@@ -44,6 +44,14 @@ In order to run the artifact (out/artifacts/MyApp_jar/MyApp.jar), you will need 
 
 Afterwards, set the preferred "Open With" option and point to the java installation directory (/bin/java.exe).
 
+## Docker service
+
+Make sure you have downloaded and installed the latest version of Docker Desktop.
+
+Start up the container service (Docker-daemon service) and proceed to the project in your favorite IDE.
+
+Now search for Services window (here is [how it looks](https://ibb.co/McMn08N) in my case), and proceed to configure your deployment strategy.
+
 #### Kind regards, Jimpad.
 
 #### Happy Coding!
