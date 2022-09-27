@@ -1,4 +1,4 @@
-# Dockerized-Java-Desktop-Application-Maven-Boilerplate
+# Docker Maven App Boilerplate
 
 ## Commands
 ```bash
