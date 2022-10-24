@@ -23,7 +23,7 @@
   
   <!-- begin:Logo -->
   <a>
-    <img src="./src/media/logo.svg" alt="Logo" width="80" height="80">
+    <img src="./src/media/assets/logo.svg" alt="Logo" width="80" height="80">
   </a>
   <!-- end:Logo >
   
