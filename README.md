@@ -1,4 +1,39 @@
-# Docker Maven App Boilerplate
+<!--
+    Author: Jimpad
+    Date: 20/10/2022
+ >
+
+<!-- begin:ProjectShields -->
+<!--
+    I'm using markdown "reference style" links for readability.
+    Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+    See the bottom of this document for the declaration of the reference variables
+    for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+    https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+<div align="center">
+  <!-- begin:Icons-->
+  
+  [![Contributors][contributors-shield]][contributors-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![MIT License][license-shield]][license-url]
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+  
+  <!-- end:Icons-->
+  
+  <!-- begin:ShortDescription -->
+  <p align="center">
+    Powered by   
+    <br>
+    Apache Maven & Docker
+    <br>
+    <a href="https://github.com/Jimpad/desktop-app-apache-maven-docker"><strong>Explore the docs »</strong></a>
+  </p>
+  <!-- end:ShortDescription -->
+</div>
+<!-- end:ProjectShields -->
+
+# Desktop Application Apache Maven Docker
 
 ## Commands
 ```bash
@@ -52,6 +87,28 @@ Start up the container service (Docker-daemon service) and proceed to the projec
 
 Now search for Services window (here is [how it looks](https://ibb.co/McMn08N) in my case), and proceed to configure your deployment strategy.
 
-#### Kind regards, Jimpad.
+<!-- begin:Footer -->
+<div align="center">
+    <a href="https://github.com/Jimpad/desktop-app-apache-maven-docker/issues">Request Feature</a>
+    ·
+    <a href="https://github.com/Jimpad/desktop-app-apache-maven-docker/issues">Report Bug</a>
+    ·
+    <a href="#readme-top">Back to Top</a>
+</div>
+<!-- end:Footer-->
 
-#### Happy Coding!
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/Jimpad/desktop-app-apache-maven-docker.svg?style=for-the-badge
+[contributors-url]: https://github.com/Jimpad/desktop-app-apache-maven-docker/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Jimpad/desktop-app-apache-maven-docker.svg?style=for-the-badge
+[forks-url]: https://github.com/Jimpad/desktop-app-apache-maven-docker/network/members
+[stars-shield]: https://img.shields.io/github/stars/Jimpad/desktop-app-apache-maven-docker.svg?style=for-the-badge
+[stars-url]: https://github.com/Jimpad/desktop-app-apache-maven-docker/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Jimpad/desktop-app-apache-maven-docker.svg?style=for-the-badge
+[issues-url]: https://github.com/Jimpad/desktop-app-apache-maven-docker/issues
+[license-shield]: https://img.shields.io/github/license/Jimpad/desktop-app-apache-maven-docker.svg?style=for-the-badge
+[license-url]: https://github.com/Jimpad/desktop-app-apache-maven-docker/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/Jimpad
