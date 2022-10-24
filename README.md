@@ -73,7 +73,7 @@ $ mvn archetype:generate -DinteractiveMode=false \
                          -Dpackage=com.example
 ```
 
-## Artifacts
+# Artifacts
 
 In order to run the artifact (out/artifacts/MyApp_jar/MyApp.jar), you will need to install the latest [Java Runtime Environment](https://www.java.com/en/download/).
 
@@ -86,6 +86,38 @@ Make sure you have downloaded and installed the latest version of Docker Desktop
 Start up the container service (Docker-daemon service) and proceed to the project in your favorite IDE.
 
 Now search for Services window (here is [how it looks](https://ibb.co/McMn08N) in my case), and proceed to configure your deployment strategy.
+
+<!-- begin:Contributing -->
+# Contributing
+
+<p>Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.</p>
+
+<p>If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".</p>
+<p>Don't forget to give the project a star! Thanks again!</p>
+<ul align="left">
+  <li>
+  Fork the Project
+  </li>
+  <li>
+  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+  </li>
+  <li>
+  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+  </li>
+  <li>
+  Push to the Branch (`git push origin feature/AmazingFeature`)
+  </li>
+  <li>
+  Open a Pull Request
+  </li>
+</ul>
+<!-- end:Contributing-->
+
+<!-- begin:License -->
+<h1> License </h1>
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+<!-- end:License -->
 
 <!-- begin:Footer -->
 <div align="center">
