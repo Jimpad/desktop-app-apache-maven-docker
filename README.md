@@ -114,7 +114,7 @@ Now search for Services window (here is [how it looks](https://ibb.co/McMn08N) i
 <!-- end:Contributing-->
 
 <!-- begin:License -->
-<h1> License </h1>
+# License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- end:License -->
