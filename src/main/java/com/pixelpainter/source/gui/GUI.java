@@ -1,4 +1,4 @@
-package com.example.lib.gui;
+package com.pixelpainter.source.gui;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -45,7 +45,7 @@ public class GUI extends JFrame implements ActionListener {
         txtfld3.setBounds(70, 90, 100, 20);
 
         // generate button
-        btn1 = new JButton("button!");
+        btn1 = new JButton("Click me!");
         btn1.setBounds(10, 200, 100, 20);
 
         //add listener to button

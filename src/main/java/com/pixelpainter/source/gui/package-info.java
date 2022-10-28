@@ -5,4 +5,4 @@
  * @version 0.0.1
  * @since 0.0.1
  */
-package com.example.lib.gui;
+package com.pixelpainter.source.gui;

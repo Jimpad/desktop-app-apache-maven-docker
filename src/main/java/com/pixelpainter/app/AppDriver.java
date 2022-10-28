@@ -1,8 +1,9 @@
-package com.example.app;
+package com.pixelpainter.app;
 
-import com.example.lib.gui.GUI;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import com.pixelpainter.source.gui.GUI;
 
 import javax.swing.*;
 

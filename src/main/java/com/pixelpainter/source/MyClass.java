@@ -1,4 +1,4 @@
-package com.example.lib;
+package com.pixelpainter.source;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
